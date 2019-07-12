@@ -1,0 +1,154 @@
+
+<?xml version="1.0"  encoding="ISO-8859-1"?><TKWiz_API version="4.0">
+<FILING_INFO>
+<filers>
+<subj>
+<cik>1062579</cik>
+<cnn>AMDOCS LTD</cnn>
+<syms>
+<sym isPrimary="1">DOX</sym>
+</syms>
+</subj>
+</filers>
+<ipage>9941156</ipage>
+<repo>tenk</repo>
+<form>20-F</form>
+<datefiled>12/08/2014</datefiled>
+<period>20140930</period>
+<isPaper>0</isPaper>
+<bytes>7543146</bytes>
+<acc>0001193125-14-436532</acc>
+</FILING_INFO>
+<FILING type="HTML">
+<document>&lt;p Style=&apos;page-break-before:always&apos;&gt;
+&lt;HR  SIZE=&quot;3&quot; style=&quot;COLOR:#999999&quot; WIDTH=&quot;100%&quot; ALIGN=&quot;CENTER&quot;&gt;
+  
+
+ &lt;P STYLE=&quot;margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman&quot; ALIGN=&quot;right&quot;&gt;Agreement Number 02026713.A.030 &lt;/P&gt;
+&lt;p STYLE=&quot;margin-top:0pt;margin-bottom:0pt ; font-size:8pt&quot;&gt;&amp;nbsp;&lt;/P&gt;
+ 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;
+&amp;#147;Confidential&amp;#148; or &amp;#147;Proprietary&amp;#148;. Supplier acknowledges that AT&amp;amp;T&amp;#146;s Information shall remain AT&amp;amp;T-owned Information irrespective of labeling or absence thereof.
+(Confidential or Proprietary Markings) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;28.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Assign unique UserIDs to individual users. (Unique User IDs) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;29.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Have and use a documented UserID Lifecycle Management process including, but not limited to, procedures for approved account creation, timely account removal, and account modification (e.g., changes to privileges, span
+of access, functions/roles) for all Information Resources and across all environments (e.g., production, test, development, etc.). Such process shall include review of access privileges and account validity to be performed [**]. (UserID Life Cycle
+Management) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;30.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Enforce the rule of least privilege (i.e., limiting access to only the commands and Information Resources necessary to perform authorized functions according to one&amp;#146;s job function). (Rule of Least Privilege)
+&lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;31.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Limit failed login attempts to no more than [**] successive attempts and lock the user account upon reaching that limit. Access to the user account can be reactivated subsequently through a manual process requiring
+verification of the user&amp;#146;s identity or, where such capability exists, can be automatically reactivated after [**] from the last failed login attempt. &lt;U&gt;Exception&lt;/U&gt;: Where elsewhere authorized in writing by AT&amp;amp;T, AT&amp;amp;T customer usage
+of Customer Facing Systems may be exempted from this requirement. (Limit Failed Logins) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;32.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Terminate interactive sessions, or activate a secure, locking screensaver requiring authentication, after a period of inactivity [**]. &lt;U&gt;Exception&lt;/U&gt;: Where elsewhere authorized in writing by AT&amp;amp;T, AT&amp;amp;T
+customer usage of Customer Facing Systems may be exempted from this requirement. (Terminate Inactive Interactive Sessions) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;33.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Require password expiration at regular intervals not to exceed [**]. &lt;U&gt;Exception&lt;/U&gt;: Where elsewhere authorized in writing by AT&amp;amp;T, AT&amp;amp;T customer usage of Customer Facing Systems may be exempted from this
+requirement. (Expire Passwords) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;34.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;a.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Use an authentication method based on the sensitivity of AT&amp;amp;T&amp;#146;s Information. Whenever authentication credentials are stored, Supplier shall protect them using Strong Encryption. &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+
+&lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;b.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;When passwords are used, they shall be complex and shall at least meet the following password construction requirements: &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;8%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;&amp;#149;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;1%&quot; VALIGN=&quot;top&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Be a minimum of six (6)&amp;nbsp;characters in length. &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;8%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;&amp;#149;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;1%&quot; VALIGN=&quot;top&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Contain characters from at least two (2)&amp;nbsp;of these groupings: alphabetic, numeric, and special characters. &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;8%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;&amp;#149;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;1%&quot; VALIGN=&quot;top&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Not be the same as the UserID with which they are associated. &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;8%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;&amp;#149;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;1%&quot; VALIGN=&quot;top&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Passwords must not contain repeating or sequential characters or numbers. &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ &lt;P STYLE=&quot;margin-top:6pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman&quot;&gt;&lt;U&gt;Exception&lt;/U&gt;:
+Where elsewhere authorized in writing by AT&amp;amp;T, AT&amp;amp;T customer usage of Customer Facing Systems may be exempted from the password construction requirements. &lt;/P&gt; &lt;P STYLE=&quot;font-size:6pt;margin-top:0pt;margin-bottom:0pt&quot;&gt;&amp;nbsp;&lt;/P&gt; 
+
+&lt;TABLE STYLE=&quot;BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt&quot; BORDER=&quot;0&quot; CELLPADDING=&quot;0&quot; CELLSPACING=&quot;0&quot; WIDTH=&quot;100%&quot;&gt; 
+&lt;TR&gt; 
+&lt;TD WIDTH=&quot;4%&quot;&gt;&amp;nbsp;&lt;/TD&gt; 
+&lt;TD WIDTH=&quot;4%&quot; VALIGN=&quot;top&quot; ALIGN=&quot;left&quot;&gt;c.&lt;/TD&gt; 
+&lt;TD ALIGN=&quot;left&quot; VALIGN=&quot;top&quot;&gt;Applications housing more sensitive copies of AT&amp;amp;T&amp;#146;s Information, as identified in writing by AT&amp;amp;T, may require an authentication mechanism stronger than passwords. In such case the authentication mechanism
+shall be mutually agreed to in advance in writing. Examples of stronger authentication methods include Strong Authentication, passphrases, and biometrics. (Passwords and Construction Rules) &lt;/TD&gt;&lt;/TR&gt;&lt;/TABLE&gt;
+ 
+ &lt;p STYLE=&quot;margin-top:0pt;margin-bottom:0pt ; font-size:8pt&quot;&gt;&amp;nbsp;&lt;/P&gt; &lt;P STYLE=&quot;margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman&quot; ALIGN=&quot;center&quot;&gt;&lt;B&gt;Proprietary
+Information &lt;/B&gt;&lt;/P&gt; &lt;P STYLE=&quot;margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman&quot; ALIGN=&quot;center&quot;&gt;The information contained in this Agreement is not for use or disclosure outside AT&amp;amp;T, Supplier, their Affiliates and
+their third party representatives, except under written Agreement by the contracting Parties. &lt;/P&gt; 
+ 
+ &lt;p STYLE=&quot;margin-top:0pt;margin-bottom:0pt ; font-size:8pt&quot;&gt;&amp;nbsp;&lt;/P&gt; &lt;P STYLE=&quot;margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman&quot; ALIGN=&quot;center&quot;&gt;10 &lt;/P&gt; 
+ 
+ 
+
+
+</document>
+</FILING>
+</TKWiz_API>
